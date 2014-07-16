@@ -1,2 +1,3 @@
 saru demo wakaru git command
 add submit change to index
+pull get information of remote ripogetor
