@@ -1,3 +1,4 @@
 saru demo wakaru git command
 add submit change to index
 commit is writing index state
+pull get information of remote ripogetor
